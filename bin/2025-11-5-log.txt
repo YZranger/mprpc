@@ -1,0 +1,2 @@
+11:41:1 => [INFO]first log message!
+11:41:1 => [ERROR]/home/yzstartes/obsidianhub/CPlusPlus/CodeHub/mprpc/example/callee/userservice.cpp:main:78

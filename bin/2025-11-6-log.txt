@@ -1,0 +1,14 @@
+14:0:9 => [INFO]first log message!
+14:0:9 => [ERROR]/home/yzstartes/obsidianhub/CPlusPlus/CodeHub/mprpc/example/callee/userservice.cpp:main:78
+14:1:23 => [INFO]first log message!
+14:1:23 => [ERROR]/home/yzstartes/obsidianhub/CPlusPlus/CodeHub/mprpc/example/callee/userservice.cpp:main:78
+14:4:2 => [INFO]first log message!
+14:4:2 => [ERROR]/home/yzstartes/obsidianhub/CPlusPlus/CodeHub/mprpc/example/callee/userservice.cpp:main:78
+14:5:8 => [INFO]first log message!
+14:5:8 => [ERROR]/home/yzstartes/obsidianhub/CPlusPlus/CodeHub/mprpc/example/callee/userservice.cpp:main:78
+14:6:35 => [INFO]first log message!
+14:6:35 => [ERROR]/home/yzstartes/obsidianhub/CPlusPlus/CodeHub/mprpc/example/callee/userservice.cpp:main:78
+14:20:26 => [INFO]first log message!
+14:20:26 => [ERROR]/home/yzstartes/obsidianhub/CPlusPlus/CodeHub/mprpc/example/callee/userservice.cpp:main:78
+14:24:53 => [INFO]first log message!
+14:24:53 => [ERROR]/home/yzstartes/obsidianhub/CPlusPlus/CodeHub/mprpc/example/callee/userservice.cpp:main:78
